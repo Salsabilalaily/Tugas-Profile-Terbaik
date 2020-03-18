@@ -21,6 +21,11 @@ nav img {
 	padding-top: 5px;
 	}
 
+nav ul li a {
+	text-decoration: none; /*supaya tidak ada garis*/
+	color: purple;
+	}
+
 ul {
 	margin: 0;
 	padding-top: 16px;
@@ -32,5 +37,34 @@ li {
 	list-style-type: none;
 	display: inline-block;
 	padding: 0 8px;
+	}
+
+section {
+	padding: 40px;
+	}
+
+#hero {
+	display: flex;
+	}
+
+#info p{
+	padding-right: 24px;
+	line-height: 25px;
+	color: #717171;
+	font-size: 14px;
+	}
+
+#info {
+	width: 50%;
+	}
+
+#gambar {
+	width: 50%;
+	}
+
+#gambar img{
+	width: 50%;
+	border-radius: 10px;
+	padding-left: 200px;
 	}
 

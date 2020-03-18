@@ -22,3 +22,7 @@ li {
 	display: inline-block;
 	padding: 8px;
 }
+
+nav img {
+	padding-top: 0;
+}

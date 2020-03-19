@@ -72,12 +72,12 @@ section {
 }
 
 #gambar img{
-	width: 50%;
+	width: 100%;
 	border-radius: 10px;
 	padding-left: 200px;
 }
 
-#myBtn {  /*slider*/
+#myBtn {  /*button top*/
   display: none;
   position: fixed;
   bottom: 20px;
@@ -93,7 +93,7 @@ section {
   border-radius: 4px;
 }
 
-#myBtn:hover {  /*slider*/
+#myBtn:hover {  /*button top*/
   background-color: #555;
 }
 

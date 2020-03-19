@@ -90,7 +90,7 @@ section {
   color: white;
   cursor: pointer;
   padding: 15px;
-  border-radius: 4px;
+  border-radius: 100%;
 }
 
 #myBtn:hover {  /*button top*/
